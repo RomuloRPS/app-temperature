@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "330849561261",
+    "firebase_url": "https://temperaturemonitoring-7d78c.firebaseio.com",
+    "project_id": "temperaturemonitoring-7d78c",
+    "storage_bucket": "temperaturemonitoring-7d78c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330849561261:android:55868dd0d5323b98c13424",
+        "android_client_info": {
+          "package_name": "br.com.temperature.monitoring"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330849561261-n219aphdrpci9tqa3bnup291gs9ol1dt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL-W9vXbpO9VLr76-LLs9Ye2Lm6JcTgrs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330849561261-n219aphdrpci9tqa3bnup291gs9ol1dt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
